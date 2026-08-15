@@ -27,6 +27,10 @@ I enjoy transforming manual infrastructure and deployment processes into automat
 ![](https://streak-stats.demolab.com/?user=soni-kumari03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soni-kumari03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🧠 Take a Break & Play
 
+🎮 **[Play My DevOps Memory Mind Game](https://Soni-kumari03.github.io/mind-game/)**
+
+> Can you match all the technologies with the fewest moves? 🚀
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
